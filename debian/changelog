@@ -1,3 +1,9 @@
+linux-latest-ev3dev-bpo-stretch-ev3-lms2012 (3) stable; urgency=medium
+
+  * Kernel 4.9.0-ev3dev-bpo-stretch-r3-ev3-lms2012
+
+ -- David Lechner <david@lechnology.com>  Tue, 03 Jan 2017 17:44:43 -0600
+
 linux-latest-ev3dev-bpo-stretch-ev3-lms2012 (2) stable; urgency=medium
 
   * Kernel 4.9.0-ev3dev-bpo-stretch-r2-ev3-lms2012
